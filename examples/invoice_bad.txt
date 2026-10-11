@@ -1,0 +1,10 @@
+Vendor: Kaveri Packaging
+Invoice No: KP-0457
+Date: 2026-04-15
+
+Corrugated boxes 200 x 18 = 3,600
+Bubble wrap rolls 10 x 220 = 2,400
+
+Subtotal: 6,000
+GST @ 18%: 1,080
+Total: 7,180

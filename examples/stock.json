@@ -1,0 +1,9 @@
+{
+  "policy": {"budget": 40000, "max_months_of_cover": 3, "approval_threshold": 10000},
+  "items": [
+    {"sku": "LAMP-BRASS", "stock": 4, "reorder_point": 10, "monthly_sales": 30, "unit_cost": 450, "suppliers": ["Kumbakonam Metals"]},
+    {"sku": "WICK-COTTON", "stock": 20, "reorder_point": 50, "monthly_sales": 200, "unit_cost": 6, "suppliers": ["Madurai Cotton Co", "Trichy Wholesale"]},
+    {"sku": "OIL-SESAME-1L", "stock": 8, "reorder_point": 15, "monthly_sales": 60, "unit_cost": 310, "suppliers": ["Trichy Wholesale"]},
+    {"sku": "INCENSE-BOX", "stock": 90, "reorder_point": 40, "monthly_sales": 120, "unit_cost": 35, "suppliers": ["Mysore Agarbathi"]}
+  ]
+}
